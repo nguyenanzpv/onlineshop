@@ -1,0 +1,10 @@
+D:\An-x270\Tedu-ASP\OnlineShop\OnlineShop\Models\bin\Debug\Models.dll.config
+D:\An-x270\Tedu-ASP\OnlineShop\OnlineShop\Models\bin\Debug\Models.dll
+D:\An-x270\Tedu-ASP\OnlineShop\OnlineShop\Models\bin\Debug\Models.pdb
+D:\An-x270\Tedu-ASP\OnlineShop\OnlineShop\Models\bin\Debug\EntityFramework.dll
+D:\An-x270\Tedu-ASP\OnlineShop\OnlineShop\Models\bin\Debug\EntityFramework.SqlServer.dll
+D:\An-x270\Tedu-ASP\OnlineShop\OnlineShop\Models\bin\Debug\EntityFramework.xml
+D:\An-x270\Tedu-ASP\OnlineShop\OnlineShop\Models\bin\Debug\EntityFramework.SqlServer.xml
+D:\An-x270\Tedu-ASP\OnlineShop\OnlineShop\Models\obj\Debug\Models.dll
+D:\An-x270\Tedu-ASP\OnlineShop\OnlineShop\Models\obj\Debug\Models.pdb
+D:\An-x270\Tedu-ASP\OnlineShop\OnlineShop\Models\obj\Debug\Models.csprojResolveAssemblyReference.cache
